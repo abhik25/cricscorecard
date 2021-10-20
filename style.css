@@ -1,0 +1,59 @@
+*{
+    margin: 25px;
+}
+a[href="https://www.cricbuzz.com/live-cricket-scorecard/38522/nz-vs-aus-11th-match-icc-mens-t20-world-cup-warm-up-matches-2021"]{
+    color: black;
+}
+div.heading{
+    text-align: center;
+    text-decoration: underline;
+}
+div.nzscore{
+    text-align: center;
+}
+h2.blue{
+    color: blue;
+}
+.nz{
+    background-color: rgb(70, 67, 67);
+    color: white;
+    font-size: x-large;
+}
+h3.first{
+    text-align: start;
+    text-decoration: underline;
+}
+h3.second{
+    text-align: end;
+}
+table,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: larger;
+}
+.batter,.status{
+    padding: 3px 95px;
+}
+.status{
+    color: rgb(56, 54, 54);
+}
+.run,.ball,.four,.six,.sr{
+    padding: 3px 40px;
+}
+.run{
+    font-weight: bold;
+}
+th{
+    background-color: rgba(192, 189, 189, 0.986);
+}
+.extras{
+    text-align: left;
+    padding: 3px 20px;
+}
+.total{
+    text-align: left;
+}
+.didnotbat{
+    text-align: left;
+    padding: 3px 0px;
+}
